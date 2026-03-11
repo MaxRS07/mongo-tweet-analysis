@@ -1,0 +1,15 @@
+{
+  "name": "assignment_5",
+  "version": "1.0.0",
+  "description": "Assignment 5 queries",
+  "license": "ISC",
+  "author": "Max Siebengartner",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo hello"
+  },
+  "dependencies": {
+    "mongodb": "^7.1.0"
+  }
+}
